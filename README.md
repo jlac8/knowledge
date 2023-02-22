@@ -58,5 +58,3 @@ Markdown Open Preview (<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>v</kbd>)
 
 - [x] Task 1
 - [ ] Task 2
-
-@TamyChR :kissing_heart:
