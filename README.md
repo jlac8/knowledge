@@ -50,9 +50,9 @@ print("block code")
 
 # Steps
 
-Show Command Palette (<kbd>F1</kbd> or <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>p </kbd>)
+Show Command Palette (<kbd>F1</kbd> or <kbd>ctrl + shift + p </kbd>)
 
-Markdown Open Preview (<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>v</kbd>)
+Markdown Open Preview (<kbd>ctrl + shift + v</kbd>)
 
 # Github Markdow
 
